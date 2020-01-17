@@ -1,6 +1,7 @@
 # Naked WordPress Plugin
 Another simple plugin starter for only PHP codes.
 
+```php
 <?php
 
 /**
@@ -43,4 +44,4 @@ if (!class_exists('MY_PLUGIN')) {
     new MY_PLUGIN;
 
 }
-    
+```
